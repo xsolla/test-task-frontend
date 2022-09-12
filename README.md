@@ -3,8 +3,6 @@ Hi there!
 
 We are happy that you've shown interest in taking our tech assignment. You can find the task below. Kindly note that you don't have to spend more than **4 hours** preparing your solution. 
 
-Good luck & Enjoy the Game
-
 ## Essential Part
 
 You need to develop a single-page application to browse the list of events.
@@ -23,3 +21,5 @@ Enhance the application you developed in the previous part. You can choose any f
 
 ## Submitting your solution
 Please submit the repository with the source code of your solution and the link to the deployed application. Please ask the person who sent you this link if you have any questions regarding the assignment.
+
+Good luck & Enjoy the Game
