@@ -8,7 +8,7 @@ We are happy that you've shown interest in taking our tech assignment. You can f
 You need to develop a single-page application to browse the list of events.
 ### Requirements:
 - The application has to be developed with either ReactJS or AngularJS
-- The application has to follow the [layout]().
+- The application has to follow the [layout](https://www.figma.com/file/THs8Bvwy9aiEGpSHG3WLYk/Babka-Tech-Assignment).
 - The application has to use publicly available [JSON-file]() as a public API GET endpoint (if the file changes, the content of the page has to change as well)
 - The application has to be publicly available over the Internet, so you have to deploy it to any hosting you like or use the sandbox such as GitHub Pages, Repl.it, etc.)
 
