@@ -22,4 +22,4 @@ Enhance the application you developed in the previous part. You can choose any f
 ## Submitting your solution
 Please submit the repository with the source code of your solution and the link to the deployed application. Please ask the person who sent you this link if you have any questions regarding the assignment.
 
-Good luck & Enjoy the Game
+**Good luck & Enjoy the Game**
